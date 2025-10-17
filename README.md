@@ -40,3 +40,5 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+![WhatsApp Image 2025-10-11 at 19 59 11_633e5591](https://github.com/user-attachments/assets/408c2491-21b6-41aa-8c7f-cac4108ff13d)
+![WhatsApp Image 2025-10-11 at 19 59 11_df2a5d0c](https://github.com/user-attachments/assets/716f930c-a2a3-4f74-8201-27b5f22a0619)
